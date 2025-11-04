@@ -5,4 +5,5 @@ config.py
 .venv/do i 
 
 #macOS metadata
-.DS_Store
+.DS_Storelambda_package/
+daily-balance-lambda.zip
